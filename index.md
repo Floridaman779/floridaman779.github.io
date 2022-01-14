@@ -1,6 +1,6 @@
 ---
 title: index
-layout: jekyll-theme-cayman
+layout: template
 filename: index.md
 ---
 
