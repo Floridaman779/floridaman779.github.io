@@ -94,7 +94,6 @@ Proficiency: longsword, shortsword, shortbow, and longbow
 | Burning   Hands          | V, S                               | 1   action   | Self   (15 foot cone) | Instantaneous      | BURN IN   HOLY FLAMES!!!                       |          |
 | Silent   image           | V, S, M   (a bit of fleece)        | 1   action   | 60 feet               | Up to   10 minutes | M   illusion but better                        |          |  |
 
-
 ## Feats
 
 ### Trance 
