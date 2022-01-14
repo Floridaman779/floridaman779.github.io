@@ -1,6 +1,6 @@
 ---
 title: index
-layout: template
+layout: theme
 filename: index.md
 ---
 
