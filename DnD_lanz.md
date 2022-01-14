@@ -1,6 +1,7 @@
 ---
 title: DnD_lanz
 layout: default
+filename: DnD_lanz.md
 ---
 
 # Lanz' lackluster longear/registered Hex-offender (Tessia Silverfrond)
