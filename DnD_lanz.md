@@ -67,19 +67,21 @@ Proficency: longsword, shortsword, shortbow, and longbow
 ## Spells
 
 3 cantrips
+
 <br>
-<br>
+
 
 | Name             | Components | Casting Time | Range      | Duration   | Description          |
 |------------------|------------|--------------|------------|------------|----------------------|
 | Message          | V, S, M    | 1   action   | 120   feet | 1 round    | DM   someone a thing |
 | Minor   illusion | S, M       | 1   action   | 30 feet    | 1   minute | JPG/MP3              |
 | Chill   touch    | V          | 1   action   | 120   Feet | 1 round    | 1d8   necrotic       |
+
 <br>
 
 1st. Level: ∞ <br>
 2 slots
-<br>
+
 <br>
 
 | Name                     | Components                         | Casting Time | Range                 | Duration           | Description                                    | Prepared |
@@ -90,7 +92,7 @@ Proficency: longsword, shortsword, shortbow, and longbow
 | Sleep                    | V, S, M   (some sand)              | 1   action   | 90 feet               | 1   minute         | ZzZzZz…   (5d8 for MHP)                        |          |
 | Burning   Hands          | V, S                               | 1   action   | Self   (15 foot cone) | Instantaneous      | BURN IN   HOLY FLAMES!!!                       |          |
 | Silent   image           | V, S, M   (a bit of fleece)        | 1   action   | 60 feet               | Up to   10 minutes | M   illusion but better                        |          |  |
-<br>
+
 <br>
 
 ## Feats
