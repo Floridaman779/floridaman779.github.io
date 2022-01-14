@@ -10,4 +10,4 @@ filename: index.md
 
 Just as a reminder, you are currently in hell
 
-{% include button.html button_name="Charactersheet Lanz" button_class="default" url="https://floridaman779.github.io/DnD_lanz" %}
+{% include button.html button_name="Charactersheets" button_class="default" url="https://floridaman779.github.io/charactersheets" %}
