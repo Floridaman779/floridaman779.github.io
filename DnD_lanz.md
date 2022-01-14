@@ -3,7 +3,7 @@ title: DnD_lanz
 layout: default
 filename: DnD_lanz.md
 ---
-
+[home](https://floridaman779.github.io/)
 # Lanz' lackluster longear/registered Hex-offender (Tessia Silverfrond)
 
 <br>
