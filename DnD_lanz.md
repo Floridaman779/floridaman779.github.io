@@ -7,26 +7,24 @@ filename: DnD_lanz.md
 # Lanz' lackluster longear/registered Hex-offender (Tessia Silverfrond)
 
 <br>
-Race: High-Elf
-Class: Wizard
-Alignment:
-Background: Sage
-Familliar: Black/White Pseudodragon Sylvie
-
-Speed: 30
-Size: medium 4 foot 6
-Languages: common, elvish, +2
-
-Hit dice: 1d6
-
-AC: 13
-MHP: 6
-CHP: 6
-THP: 0
+Race: High-Elf <br>
+Class: Wizard <br>
+Alignment: <br>
+Background: Sage <br>
+Familliar: Black/White Pseudodragon Sylvie <br>
+Speed: 30 <br>
+Size: medium 4 foot 6 <br>
+Languages: common, elvish, +2 <br>
+Hit dice: 1d6 <br>
+<br>
+AC: 13 <br>
+MHP: 6 <br>
+CHP: 6 <br>
+THP: 0 <br>
 <br>
 <br>
+
 ## Stats
----
 
 | Ability | Score            | Modifier | SAV |
 | ------- | ---------------- | -------- | --- |
@@ -43,7 +41,6 @@ Proficency: longsword, shortsword, shortbow, and longbow
 <br>
 <br>
 ## Equipment
----
 
 | Count | Name                 | Weight  | Dmg               | Info                                        | Description          |
 | ----- | -------------------- | ------- | ----------------- | ------------------------------------------- | -------------------- |
@@ -68,8 +65,6 @@ Proficency: longsword, shortsword, shortbow, and longbow
 | Total | 27 lb.               |         | Max carry         | 120                                         |                      |
 
 ## Spells
----
-<br>
 
 ### 3 cantrips
 
