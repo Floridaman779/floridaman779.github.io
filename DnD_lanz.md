@@ -65,8 +65,8 @@ Proficency: longsword, shortsword, shortbow, and longbow
 | Total | 27 lb.               |         | Max carry         | 120                                         |                      |
 
 ## Spells
-### 3 cantrips
-<br>
+
+3 cantrips
 
 | Name             | Components | Casting Time | Range      | Duration   | Description          |
 |------------------|------------|--------------|------------|------------|----------------------|
@@ -76,8 +76,8 @@ Proficency: longsword, shortsword, shortbow, and longbow
 <br>
 
 ### 1st. Level: ∞
-#### 2 slots
-<br>
+
+2 slots
 
 | Name                     | Components                         | Casting Time | Range                 | Duration           | Description                                    | Prepared |
 |--------------------------|------------------------------------|--------------|-----------------------|--------------------|------------------------------------------------|----------|
