@@ -1,7 +1,7 @@
 ---
-title: home
+title: index
 layout: template
-filename: home.md
+filename: index.md
 ---
 
 # Welcome to my site
