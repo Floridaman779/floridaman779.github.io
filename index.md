@@ -8,4 +8,4 @@ filename: index.md
 
 You are currently in hell
 
-[Charactersheet Lanz](https://floridaman779.github.io/DnD_lanz)
+{% include button.html button_name="Charactersheet Lanz" button_class="default" url="https://floridaman779.github.io/DnD_lanz" %}
