@@ -3,7 +3,7 @@ title: DnD_lanz
 layout: default
 filename: DnD_lanz.md
 ---
-[return to welcome page](https://floridaman779.github.io/)
+[Return to mainpage](https://floridaman779.github.io/)
 # Lanz' lackluster longear/registered Hex-offender (Tessia Silverfrond)
 
 <br>
@@ -123,4 +123,6 @@ The Wizard table shows how many spell slots you have to cast your spells of 1st 
 ### Spellcasting Ability
 Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one. Spell save DC = 8 + your proficiency bonus + your Intelligence modifier. Spell attack modifier = your proficiency bonus + your intelligence modifier 
 
-[return to welcome page](https://floridaman779.github.io/)
+<br>
+
+[Return to mainpage](https://floridaman779.github.io/)
