@@ -1,6 +1,6 @@
 ---
 title: DnD_lanz
-layout: cayman
+layout: default
 ---
 
 # Lanz' lackluster longear/registered Hex-offender (Tessia Silverfrond)
