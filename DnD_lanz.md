@@ -1,6 +1,6 @@
 ---
 title: DnD_lanz
-layout: template, default
+layout: default
 filename: DnD_lanz.md
 ---
 [home](https://floridaman779.github.io/)
