@@ -1,6 +1,7 @@
 ---
 title: index
 layout: default
+filename: index.md
 ---
 
 # Welcome to my site
