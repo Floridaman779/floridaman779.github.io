@@ -27,7 +27,7 @@ THP: 0 <br>
 ## Stats
 
 | Ability | Score            | Modifier | SAV |
-| ------- | ---------------- | -------- | --- |
+|---------|------------------|----------|-----|
 | STR     | 8                | -1       |     |
 | DEX     | 14 (+2   racial) | +3       |     |
 | CON     | 10               | 0        |     |
@@ -43,7 +43,7 @@ Proficency: longsword, shortsword, shortbow, and longbow
 ## Equipment
 
 | Count | Name                 | Weight  | Dmg               | Info                                        | Description          |
-| ----- | -------------------- | ------- | ----------------- | ------------------------------------------- | -------------------- |
+|-------|----------------------|---------|-------------------|---------------------------------------------|----------------------|
 | 31    | gp                   | -       |                   |                                             | DM   someone a thing |
 | 1     | Spellbook            | 3 lb.   |                   |                                             | JPG/MP3              |
 | 1     | Quarterstaff         | 3 lb.   | 1d6   bludgeoning | Versetaile   1d8                            | 1d8   necrotic       |
@@ -69,17 +69,18 @@ Proficency: longsword, shortsword, shortbow, and longbow
 ### 3 cantrips
 
 | Name             | Components | Casting Time | Range      | Duration   | Description          |
-| ---------------- | ---------- | ------------ | ---------- | ---------- | -------------------- |
+|------------------|------------|--------------|------------|------------|----------------------|
 | Message          | V, S, M    | 1   action   | 120   feet | 1 round    | DM   someone a thing |
 | Minor   illusion | S, M       | 1   action   | 30 feet    | 1   minute | JPG/MP3              |
 | Chill   touch    | V          | 1   action   | 120   Feet | 1 round    | 1d8   necrotic       |
 <br>
 
 ### 1st. Level: ∞
+
 #### 2 slots
 
 | Name                     | Components                         | Casting Time | Range                 | Duration           | Description                                    | Prepared |
-| ------------------------ | ---------------------------------- | ------------ | --------------------- | ------------------ | ---------------------------------------------- | -------- |
+|--------------------------|------------------------------------|--------------|-----------------------|--------------------|------------------------------------------------|----------|
 | Comprehend   Languages   | V, S, M   (soot and salt)          | 1   action   | self                  | 1 hour             | Hallo     Nihao      Baguette     CYKA   BLYET |          |
 | Identify                 | V, S,   M, (pearl and owl feather) | 1   minute   | touch                 | Instantaneous      | Ya   know…                                     |          |
 | Tenser’s   Floating Disk | V, S, M   (drop of mercury)        | 1   action   | 30 feet               | 1 hour             | A   focken table                               |          |
