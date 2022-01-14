@@ -3,7 +3,8 @@ title: DnD_lanz
 layout: default
 filename: DnD_lanz.md
 ---
-[Return to mainpage](https://floridaman779.github.io/){: .btn}
+{% include button.html url="http://www.google.com" %}
+
 # Lanz' lackluster longear/registered Hex-offender (Tessia Silverfrond)
 
 <br>
@@ -125,4 +126,4 @@ Intelligence is your spellcasting ability for your wizard spells, since you lear
 
 <br>
 
-[Return to mainpage](https://floridaman779.github.io/){: .btn}
+{% include button.html url="http://www.google.com" %}
