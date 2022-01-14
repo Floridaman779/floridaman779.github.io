@@ -12,7 +12,7 @@ Race: High-Elf <br>
 Class: Wizard <br>
 Alignment: <br>
 Background: Sage <br>
-Familliar: Black/White Pseudodragon Sylvie <br>
+Familiar: Black/White Pseudodragon Sylvie <br>
 Speed: 30 <br>
 Size: medium 4 foot 6 <br>
 Languages: common, elvish, +2 <br>
@@ -22,7 +22,6 @@ AC: 13 <br>
 MHP: 6 <br>
 CHP: 6 <br>
 THP: 0 <br>
-<br>
 <br>
 
 ## Stats
@@ -38,32 +37,32 @@ THP: 0 <br>
 
 Skills: perception, arcana, history,
 
-Proficency: longsword, shortsword, shortbow, and longbow
+Proficiency: longsword, shortsword, shortbow, and longbow
 <br>
-<br>
+
 ## Equipment
 
-| Count | Name                 | Weight  | Dmg               | Info                                        | Description          |
-|-------|----------------------|---------|-------------------|---------------------------------------------|----------------------|
-| 31    | gp                   | -       |                   |                                             | DM   someone a thing |
-| 1     | Spellbook            | 3 lb.   |                   |                                             | JPG/MP3              |
-| 1     | Quarterstaff         | 3 lb.   | 1d6   bludgeoning | Versetaile   1d8                            | 1d8   necrotic       |
-| 1     | Rubiks   Cube        | 0.5 lb. |                   | 3d20   sec. time freeze to solve it         |                      |
-| 1     | Cat   ears           | 0.5 lb. |                   | If d20   -> div by 5 = stelf                |                      |
-| 2     | Ink and   quill      | -       |                   |                                             |                      |
-| 1     | letter               | -       |                   | Unaswered   question from a deceased friend |                      |
-| 1     | Common   clothes     | 3 lb.   |                   |                                             |                      |
-| 1     | backpack             | 5 lb.   |                   |                                             |                      |
-| 1     | Book of   lore       | 5 lb.   |                   |                                             |                      |
-| 10    | parchment            | 0.5 lb. |                   |                                             |                      |
-| 1     | Bag of   sand        | 2 lb.   |                   |                                             |                      |
-| 1     | Small   knife        | 1 lb.   |                   |                                             |                      |
-| 1     | Arcane   focus (orb) | 3 lb.   |                   |                                             |                      |
-| 1     | Bottle   of mercury  | 0.5 lb. |                   |                                             |                      |
-| 3     | Pearl   (w >100 gp)  | -       |                   | you   can't sell em tho                     |                      |
-| 1     | Small   components   | 0.5 lb. |                   |                                             |                      |
-|       |                      |         |                   |                                             |                      |
-| Total | 27 lb.               |         | Max carry         | 120                                         |                      |
+| Count | Name                 | Weight  | Dmg               | Info                                         | Description          |
+|-------|----------------------|---------|-------------------|----------------------------------------------|----------------------|
+| 31    | gp                   | -       |                   |                                              | DM   someone a thing |
+| 1     | Spellbook            | 3 lb.   |                   |                                              | JPG/MP3              |
+| 1     | Quarterstaff         | 3 lb.   | 1d6   bludgeoning | Versatile   1d8                              | 1d8   necrotic       |
+| 1     | Rubiks   Cube        | 0.5 lb. |                   | 3d20   sec. time freeze to solve it          |                      |
+| 1     | Cat   ears           | 0.5 lb. |                   | If d20   -> div by 5 = stelf                 |                      |
+| 2     | Ink and   quill      | -       |                   |                                              |                      |
+| 1     | letter               | -       |                   | Unanswered   question from a deceased friend |                      |
+| 1     | Common   clothes     | 3 lb.   |                   |                                              |                      |
+| 1     | backpack             | 5 lb.   |                   |                                              |                      |
+| 1     | Book of   lore       | 5 lb.   |                   |                                              |                      |
+| 10    | parchment            | 0.5 lb. |                   |                                              |                      |
+| 1     | Bag of   sand        | 2 lb.   |                   |                                              |                      |
+| 1     | Small   knife        | 1 lb.   |                   |                                              |                      |
+| 1     | Arcane   focus (orb) | 3 lb.   |                   |                                              |                      |
+| 1     | Bottle   of mercury  | 0.5 lb. |                   |                                              |                      |
+| 3     | Pearl   (w >100 gp)  | -       |                   | you   can't sell em tho                      |                      |
+| 1     | Small   components   | 0.5 lb. |                   |                                              |                      |
+|       |                      |         |                   |                                              |                      |
+| Total | 27 lb.               |         | Max carry         | 120                                          |                      |
 
 ## Spells
 
@@ -94,7 +93,6 @@ Proficency: longsword, shortsword, shortbow, and longbow
 | Burning   Hands          | V, S                               | 1   action   | Self   (15 foot cone) | Instantaneous      | BURN IN   HOLY FLAMES!!!                       |          |
 | Silent   image           | V, S, M   (a bit of fleece)        | 1   action   | 60 feet               | Up to   10 minutes | M   illusion but better                        |          |  |
 
-<br>
 
 ## Feats
 
@@ -114,12 +112,12 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
 You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher. For example, if you’re a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or tw o 1st-level spell slots.
 
 ### Ritual Casting
-You can cast a wizard spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don't need to have the spell prepared.
+You can cast a wizard spell as a ritual if that spell has the ritual tag, and you have the spell in your spellbook. You don't need to have the spell prepared.
 
 Learning Spells of 1st Level and Higher: Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook 
 
 ### Preparing and Casting Spells
-The Wizard table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest. You prepare the list of wizard spells that are available for you to cast. To do so. choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots. For example, if you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence o f 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells. You can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list. 
+The Wizard table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest. You prepare the list of wizard spells that are available for you to cast. To do so. choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots. For example, if you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence o f 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell does not remove it from your list of prepared spells. You can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list. 
 
 ### Spellcasting Ability
 Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one. Spell save DC = 8 + your proficiency bonus + your Intelligence modifier. Spell attack modifier = your proficiency bonus + your intelligence modifier 
