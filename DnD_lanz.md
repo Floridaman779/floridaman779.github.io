@@ -27,6 +27,7 @@ THP: 0
 <br>
 ## Stats
 ---
+
 | Ability | Score            | Modifier | SAV |
 | ------- | ---------------- | -------- | --- |
 | STR     | 8                | -1       |     |
@@ -43,6 +44,7 @@ Proficency: longsword, shortsword, shortbow, and longbow
 <br>
 ## Equipment
 ---
+
 | Count | Name                 | Weight  | Dmg               | Info                                        | Description          |
 | ----- | -------------------- | ------- | ----------------- | ------------------------------------------- | -------------------- |
 | 31    | gp                   | -       |                   |                                             | DM   someone a thing |
