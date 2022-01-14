@@ -67,6 +67,7 @@ Proficency: longsword, shortsword, shortbow, and longbow
 ## Spells
 
 3 cantrips
+<br>
 
 | Name             | Components | Casting Time | Range      | Duration   | Description          |
 |------------------|------------|--------------|------------|------------|----------------------|
@@ -78,6 +79,7 @@ Proficency: longsword, shortsword, shortbow, and longbow
 ### 1st. Level: ∞
 
 2 slots
+<br>
 
 | Name                     | Components                         | Casting Time | Range                 | Duration           | Description                                    | Prepared |
 |--------------------------|------------------------------------|--------------|-----------------------|--------------------|------------------------------------------------|----------|
