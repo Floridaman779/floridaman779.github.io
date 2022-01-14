@@ -2,6 +2,7 @@
 title: DnD_lanz
 layout: default
 filename: DnD_lanz.md
+description: This is the Charactersheet of Lanz
 ---
 {% include button.html button_name="Return to mainpage" button_class="default" url="https://floridaman779.github.io/" %}
 
