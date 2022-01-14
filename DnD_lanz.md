@@ -68,6 +68,7 @@ Proficency: longsword, shortsword, shortbow, and longbow
 
 3 cantrips
 <br>
+<br>
 
 | Name             | Components | Casting Time | Range      | Duration   | Description          |
 |------------------|------------|--------------|------------|------------|----------------------|
@@ -76,9 +77,9 @@ Proficency: longsword, shortsword, shortbow, and longbow
 | Chill   touch    | V          | 1   action   | 120   Feet | 1 round    | 1d8   necrotic       |
 <br>
 
-### 1st. Level: ∞
-
+1st. Level: ∞ <br>
 2 slots
+<br>
 <br>
 
 | Name                     | Components                         | Casting Time | Range                 | Duration           | Description                                    | Prepared |
