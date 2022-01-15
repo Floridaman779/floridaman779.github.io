@@ -1,5 +1,5 @@
 <style>
-.userbt{
+.userbtn{
   background-color: #4CAF50;
   border: none;
   color: white;
@@ -11,7 +11,17 @@
   margin: 4px 2px;
   cursor: pointer;
   border-radius: 6px;
+  transition-duration: 0.4s;
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
 }
+  
+.button:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
 </style>
 
-<button type="button" onclick="window.location='{{include.url}}'" class="userbt">{{include.button_name}}</button>
+<button type="button" onclick="window.location='{{include.url}}'" class="userbtn">{{include.button_name}}</button>
