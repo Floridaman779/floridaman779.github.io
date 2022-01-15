@@ -4,7 +4,7 @@ layout: default
 filename: DnD_lanz.md
 description: This is the Charactersheet of Lanz
 ---
-{% include button.html button_name="Return to mainpage" button_class="default" url="https://floridaman779.github.io/" %}
+{% include button.html button_name="Return to mainpage" url="https://floridaman779.github.io/" %}
 
 # Lanz' lackluster longear/registered Hex-offender (Tessia Silverfrond)
 
