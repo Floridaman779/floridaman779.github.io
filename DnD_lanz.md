@@ -124,4 +124,4 @@ Intelligence is your spellcasting ability for your wizard spells, since you lear
 
 <br>
 
-{% include button.html button_name="Return to mainpage" button_class="default" url="https://floridaman779.github.io/" %}
+{% include button.html button_name="Return to mainpage" url="https://floridaman779.github.io/" %}
