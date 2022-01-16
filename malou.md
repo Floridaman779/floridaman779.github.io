@@ -6,7 +6,7 @@ description: This is the Charactersheet of Malou
 ---
 {% include button.html button_name="Return to mainpage" url="https://floridaman779.github.io/" %}
 
-# Malous Malicious Meerkat (Meriath Tealeaf)
+# Malou's Malicious Meerkat (Meriath Tealeaf)
 
 <br>
 Race: Half-elf<br>
