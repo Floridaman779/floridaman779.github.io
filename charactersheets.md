@@ -1,5 +1,5 @@
 ---
-title: charactersheets
+title: The Charactersheets
 layout: default
 filename: charactersheets.md
 description: Index of the charactersheets
@@ -9,7 +9,7 @@ description: Index of the charactersheets
 # The charactersheets
 
 I'm working on converting every Onenote table to markdown<br>
-Currently I finished those pages: <br>
+Have fun exploring our traits!<br>
 
 {% include button.html button_name="Lanz' lackluster longear/registered Hex-offender (Tessia Silverfrond)" button_class="default" url="https://floridaman779.github.io/lanz" %}
 {% include button.html button_name="Malou's Malicious Meerkat (Meriath Tealeaf)" button_class="default" url="https://floridaman779.github.io/malou" %}
