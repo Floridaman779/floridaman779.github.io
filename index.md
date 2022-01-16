@@ -8,6 +8,6 @@ filename: index.md
 ## Everything I created can be found here (or at least in the far future)
 <br>
 
-Just as a reminder, you are currently in hell
+Just as a reminder, this site is a work-in-progress and will not be finished in a very long time
 
 {% include button.html button_name="Charactersheets" url="https://floridaman779.github.io/charactersheets" %}
