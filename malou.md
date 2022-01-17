@@ -22,7 +22,7 @@ Hit dice: 1d8<br>
 AC:13<br>
 MHP: 10<br>
 CHP: 10<br>
-THP:<span style="color:red">none</span><br><br>
+THP: 0<br>
 PWIS: 13<br>
 <br>
 
