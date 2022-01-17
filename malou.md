@@ -4,7 +4,7 @@ layout: default
 filename: malou.md
 description: This is the Charactersheet of Malou
 ---
-{% include button.html button_name="Return to mainpage" url="https://floridaman779.github.io/" %}
+{% include button.html button_name="Return to charactersheets" url="https://floridaman779.github.io/charactersheets" %}
 
 # Malou's Malicious Meerkat (Meriath Tealeaf)
 
@@ -115,4 +115,4 @@ The quiet seclusion of your extended hermitage gave you access to a unique and p
 
 <br>
 
-{% include button.html button_name="Return to mainpage" url="https://floridaman779.github.io/" %}
+{% include button.html button_name="Return to charactersheets" url="https://floridaman779.github.io/charactersheets" %}
