@@ -4,7 +4,7 @@ layout: default
 filename: antonia.md
 description: This is the Charactersheet of Antonia
 ---
-{% include button.html button_name="Return to mainpage" url="https://floridaman779.github.io/" %}
+{% include button.html button_name="Return to charactersheets" url="https://floridaman779.github.io/charactersheets" %}
 
 # Antonia's Anxious Anomaly
 
@@ -90,4 +90,4 @@ You have created a second identity that includes documentation, established acqu
 
 <br>
 
-{% include button.html button_name="Return to mainpage" url="https://floridaman779.github.io/" %}
+{% include button.html button_name="Return to charactersheets" url="https://floridaman779.github.io/charactersheets" %}
