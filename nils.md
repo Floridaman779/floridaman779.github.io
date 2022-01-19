@@ -32,6 +32,7 @@ Inspiration: 0<br>
 <p align="center">
   {% include loader.html %}
 </p>
-
+<br>
+<br>
 
 {% include button.html button_name="Return to charactersheets" url="https://floridaman779.github.io/charactersheets" %}
