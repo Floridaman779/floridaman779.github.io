@@ -28,6 +28,7 @@ Inspiration: 0<br>
 
 ## Stats:
 
+<br>
 <p align="center">
   {% include loader.html %}
 </p>
