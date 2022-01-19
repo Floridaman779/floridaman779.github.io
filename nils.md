@@ -28,9 +28,9 @@ Inspiration: 0<br>
 
 ## Stats:
 
-Errrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
-4   0               4
-please Contact Devvvvvvvvvvvvvvvvvvvvvvvvvv
+Errrrrrrrrrrrrrrrrrrrrrrrrrrrrrr<br>
+4   0               4<br>
+please Contact Devvvvvvvvvvvvvvvvvvvvvvvvvv<br>
 <br>
 <p align="center">
   {% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}
