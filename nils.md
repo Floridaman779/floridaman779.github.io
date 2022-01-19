@@ -28,7 +28,7 @@ Inspiration: 0<br>
 
 ## Stats:
 
-# Working on it...
+# Working on it... {% include loader.html %}
 
 
 {% include button.html button_name="Return to charactersheets" url="https://floridaman779.github.io/charactersheets" %}
