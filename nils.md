@@ -28,8 +28,9 @@ Inspiration: 0<br>
 
 ## Stats:
 
-#Working on it...
-{% include loader.html %}
+<p align="center">
+  {% include loader.html %}
+</p>
 
 
 {% include button.html button_name="Return to charactersheets" url="https://floridaman779.github.io/charactersheets" %}
