@@ -30,7 +30,7 @@ Inspiration: 0<br>
 
 Errrrrrrrrrrrrrrrrrrrrrrrrrrrrrr<br>
 4   0               4<br>
-please Contact Devvvvvvvvvvvvvvvvvvvvvvvvvv<br>
+please Contact De       vvvvvvvvvvvvvvvvvv<br>
 <br>
 <p align="center">
   {% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}
