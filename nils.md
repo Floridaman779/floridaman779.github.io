@@ -30,7 +30,7 @@ Inspiration: 0<br>
 
 <br>
 <p align="center">
-  {% include loader.html %}
+  {% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}{% include loader.html %}
 </p>
 <br>
 <br>
