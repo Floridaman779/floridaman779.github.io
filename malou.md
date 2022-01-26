@@ -79,11 +79,6 @@ Proficiency: Clubs, daggers, darts, javelins, maces, quarterstaff's, scimitars, 
 1st. Level: 2
 2 slots:
 
-|     Name                 |     Components    |     Casting Time    |     Range       |     Duration    |     Description          |     Prepared    |
-|--------------------------|-------------------|---------------------|-----------------|-----------------|--------------------------|-----------------|
-|     Animal friendship    |     V, S, M       |     30 feet         |     1 action    |     24 hours    |     Beast -> harmless    |                 |
-|     Charm person         |     V, S          |     30 feet         |     1 action    |     1 hour      |     WIS sav -> friend    |                 |
-
 ## Feats
 
 ### Darkvision
