@@ -1,6 +1,6 @@
 <style>
-.userbtn{
-  padding: 16px 32px;
+.btn{
+  padding: 5px 12px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -9,12 +9,12 @@
   cursor: pointer;
   border-radius: 6px;
   transition-duration: 0.4s;
-  background-color: white; 
-  color: black; 
+  background-color: white;
+  color: black;
   border: 2px solid #4CAF50;
 }
-  
-.userbtn:hover {
+
+.btn:hover {
   background-color: #4CAF50;
   color: white;
   padding: 22px 36px;
@@ -22,4 +22,4 @@
 
 </style>
 
-<button type="button" onclick="window.location='{{include.url}}'" class="userbtn">{{include.button_name}}</button>
+<button type="button" onclick="window.location='{{include.url}}'" class="btn">{{include.button_name}}</button>
