@@ -9,6 +9,6 @@ lol, not ready
 
 have this cute cat instead
 
-<img src="cat.jpg" alt="cat">
+<img src="https://thecatapi.com/api/images/get?format=src&type=static" alt="cat">
 
 {% include button.html button_name="Return to DnD stuff" url="https://floridaman779.github.io/DnD" %}
