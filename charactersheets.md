@@ -4,7 +4,7 @@ layout: default
 filename: charactersheets.md
 description: Index of the charactersheets
 ---
-{% include button.html button_name="Return to mainpage" url="https://floridaman779.github.io/" %}
+{% include button.html button_name="Return to DnD stuff" url="https://floridaman779.github.io/DND" %}
 
 # The charactersheets
 

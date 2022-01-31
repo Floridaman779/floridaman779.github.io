@@ -1,12 +1,12 @@
 ---
-title: Antonia's Anxious Anomaly
+title: Antonia's Anxious Anomaly (Cefrey Brightwood)
 layout: default
 filename: antonia.md
 description: This is the Charactersheet of Antonia
 ---
 {% include button.html button_name="Return to charactersheets" url="https://floridaman779.github.io/charactersheets" %}
 
-# Antonia's Anxious Anomaly
+# Antonia's Anxious Anomaly (Cefrey Brightwood)
 
 <br>
 Race: Human<br>

@@ -10,4 +10,5 @@ filename: index.md
 
 Just as a reminder, this site is a work-in-progress and will not be finished in a very long time
 
-{% include button.html button_name="Charactersheets" url="https://floridaman779.github.io/charactersheets" %} {% include button.html button_name="Library" url="https://floridaman779.github.io/library" %}
+{% include button.html button_name="DnD stuff" url="https://floridaman779.github.io/DnD" %}
+{% include button.html button_name="Library" url="https://floridaman779.github.io/library" %}
