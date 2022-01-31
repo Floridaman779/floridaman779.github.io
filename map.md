@@ -7,7 +7,7 @@ description: The map of our wonderful world, filled to the brim with things to k
 
 lol, not ready
 
-have this cute cat instead
+have this cat instead
 
 <img src="https://thecatapi.com/api/images/get?format=src&type=static" alt="cat">
 
