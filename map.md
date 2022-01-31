@@ -11,4 +11,4 @@ have this cute cat instead
 
 <img src="cat.jpg" alt="cat">
 
-{% include button.html button_name="Return to DnD stuff" url="https://floridaman779.github.io/DND" %}
+{% include button.html button_name="Return to DnD stuff" url="https://floridaman779.github.io/DnD" %}
