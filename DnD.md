@@ -2,7 +2,7 @@
 title: The DnD Zone
 layout: default
 filename: DnD.md
-description: A weird place full of orks, halflings and Sämi
+description: A weird place full of elves, tieflings and Sämi
 ---
 
 {% include button.html button_name="Return to mainpage" url="https://floridaman779.github.io" %}
