@@ -17,7 +17,7 @@ description: A mysterious place full of old books and untold stories for you to 
 {% include button2.html button_name="Players Handbook" url="https://drive.google.com/file/d/1ZZ-EtUeuBjLhOYQcjNJ7CIXVr2H55ggV/view?usp=sharing" %}
 {% include button2.html button_name="Swordcoast Adventurer's Guide" url="https://drive.google.com/file/d/1Lm-9p7LTJRbs8gdLUk_IxdJD1h14aPVP/view?usp=sharing" %}
 {% include button2.html button_name="Tal'dorei: Reborn" url="https://drive.google.com/file/d/1Tv0FAHjvX5hdcdQrW_iSr99l8UP0n3vp/view?usp=sharing" %}
-{% include button2.html button_name="Tasha's Couldron of Everything" url="https://drive.google.com/file/d/1Tv0FAHjvX5hdcdQrW_iSr99l8UP0n3vp/view?usp=sharing" %}
+{% include button2.html button_name="Tasha's Couldron of Everything" url="https://drive.google.com/file/d/1_Zh00z8XPGjUO8jhLMWvl_2XHIfYy9sS/view?usp=sharing" %}
 {% include button2.html button_name="Volo's Guide to Monsters" url="https://drive.google.com/file/d/1dvNU86mvZHXgLjMKbawbiLCcCCWQcWxs/view?usp=sharing" %}
 {% include button2.html button_name="Xanathars' Guide to Everything" url="https://drive.google.com/file/d/1IkzcJICYncAiPnUpomDRerBBAF8_B1Sp/view?usp=sharing" %}
 <br>
