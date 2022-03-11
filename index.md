@@ -12,4 +12,4 @@ Just as a reminder, this site is a work-in-progress and will not be finished in 
 
 {% include button.html button_name="DnD stuff" url="https://floridaman779.github.io/DnD" %}
 {% include button.html button_name="Library" url="https://floridaman779.github.io/library" %}
-{% %}
+{% include stuff_for_forms.html %}
