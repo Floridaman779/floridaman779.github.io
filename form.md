@@ -14,4 +14,4 @@ Fill in the form below this text. Use the email you used on Plex. In the text bo
 
 ### Attention: Every request that does not meet the requirements will be ignored!
 
-{% include stuff_for_form.html}
+{% include stuff_for_form.html %}
