@@ -4,6 +4,8 @@ layout: default
 filename: form.md
 ---
 
+{% include button.html button_name="Return to DnD stuff" url="https://floridaman779.github.io/DnD" %}
+
 # Tutorial for Plex access
 ## Step 1: Sign up on Plex
 Go to the [Plex website](https://plex.tv) and click on "sign up". Enter your email (remember this for step 2) and choose a safe password. Then click on "Create an account".
@@ -14,3 +16,5 @@ Fill in the form below this text. Use the email you used on Plex. In the text bo
 
 {% include stuff_for_form.html %}
 ### Attention: Every request that does not meet the requirements will be ignored!
+
+{% include button.html button_name="Return to DnD stuff" url="https://floridaman779.github.io/DnD" %}
