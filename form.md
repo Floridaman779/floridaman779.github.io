@@ -4,7 +4,7 @@ layout: default
 filename: form.md
 ---
 
-{% include button.html button_name="Return to DnD stuff" url="https://floridaman779.github.io/DnD" %}
+{% include button.html button_name="Return to Mainpage" url="https://floridaman779.github.io/" %}
 
 # Tutorial for Plex access
 ## Step 1: Sign up on Plex
@@ -17,4 +17,4 @@ Fill in the form below this text. Use the email you used on Plex. In the text bo
 {% include stuff_for_form.html %}
 ### Attention: Every request that does not meet the requirements will be ignored!
 
-{% include button.html button_name="Return to DnD stuff" url="https://floridaman779.github.io/DnD" %}
+{% include button.html button_name="Return to Mainpage" url="https://floridaman779.github.io/" %}
